@@ -13,6 +13,7 @@
 *.ipch
 *.suo
 *.db
+*.obj
 
 # Debug/Release
 x64/Debug
