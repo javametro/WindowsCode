@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListeningPort", "CheckListeningPort\CheckListeningPort.csproj", "{F0AC1A75-9255-45B2-A3B0-6A34B5D4F255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0AC1A75-9255-45B2-A3B0-6A34B5D4F255}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F0AC1A75-9255-45B2-A3B0-6A34B5D4F255}.Debug|Any CPU.Build.0 = Debug|x64
+		{F0AC1A75-9255-45B2-A3B0-6A34B5D4F255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0AC1A75-9255-45B2-A3B0-6A34B5D4F255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDF4A33-05D7-4745-B00C-47FFEF0C1986}
+	EndGlobalSection
+EndGlobal
