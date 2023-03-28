@@ -16,8 +16,8 @@
 *.obj
 
 # Debug/Release
-x64/Debug
-x64/Release
+**/x64/Debug/**
+**/x64/Release/**
 
 # Compiled Dynamic libraries
 *.so
